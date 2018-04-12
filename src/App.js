@@ -15,10 +15,10 @@ class App extends Component {
     this.setState({ score: this.state.score + 1})
   }
 
-  emptyScore = () => {
-    // eslint-disable-next-line
-    this.setState({ score: this.state.score = 0 })
-  }
+  // emptyScore = () => {
+  //   // eslint-disable-next-line
+  //   this.setState({ score: this.state.score = 0 })
+  // }
   render() {
     return (
       <div>
@@ -31,6 +31,7 @@ class App extends Component {
         </div>
         <div>
           <Wrapper>
+            {/* Couldn't figure out how to randomize them repeatedly... */}
             {this.state.images.map(images => (
               <ImageCard
               doThis={this.doThis}
@@ -41,9 +42,10 @@ class App extends Component {
             ))}
           </Wrapper>
         </div>
-        <button className="btn btn-danger" onClick={this.emptyScore}>
+        {/* Button was used for testing */}
+        {/* <button className="btn btn-danger" onClick={this.emptyScore}>
           Empty Me
-        </button>
+        </button> */}
 
 
       </div>
