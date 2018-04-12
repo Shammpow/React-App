@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/images/Kirby_archer.jpg",
+        "name": "Kirby Archer"
+    },
+    {
+        "id": 2,
+        "image": "/images/Kirby_dj.jpg",
+        "name": "Kirby DJ"
+    },
+    {
+        "id": 3,
+        "image": "/images/Kirby_fighter.jpg",
+        "name": "Kirby Figher"
+    },
+    {
+        "id": 4,
+        "image": "/images/Kirby_hiii.jpg",
+        "name": "Kirby Hiii"
+    },
+    {
+        "id": 5,
+        "image": "/images/Kirby_ice.jpg",
+        "name": "Kirby Ice"
+    },
+    {
+        "id": 6,
+        "image": "/images/Kirby_knight.jpg",
+        "name": "Kirby Knight"
+    },
+    {
+        "id": 7,
+        "image": "/images/Kirby_leaf.jpg",
+        "name": "Kirby Leaf"
+    },
+    {
+        "id": 8,
+        "image": "/images/Kirby_link.jpg",
+        "name": "Kirby Link"
+    },
+    {
+        "id": 9,
+        "image": "/images/Kirby_ninja.jpg",
+        "name": "Kirby Ninja"
+    },
+    {
+        "id": 10,
+        "image": "/images/Kirby_pic.jpg",
+        "name": "Kirby Pic"
+    },
+    {
+        "id": 11,
+        "image": "/images/Kirby_sleepy.jpg",
+        "name": "Kirby Sleepy"
+    },
+    {
+        "id": 12,
+        "image": "/images/Kirby_static.png",
+        "name": "Kirby Static"
+    }
+]
